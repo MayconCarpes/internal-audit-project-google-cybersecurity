@@ -35,7 +35,7 @@ Neste projeto, apliquei conhecimentos práticos em:
 
 ## 5. Arquivos do Projeto
 
-* **[Relatório de Risco da Botium Toys](./Botium-Toys-Risk-Assessment-Report.pdf):** Documento original com o cenário e a avaliação de risco.
+* **[Relatório de Risco da Botium Toys](./Botium Toys_-Scope,-goals,-and-risk-assessment-report.pdf):** Documento original com o cenário e a avaliação de risco.
 * **[Checklist de Controles e Conformidade Preenchido](./Completed-Controls-and-Compliance-Checklist.pdf):** Minha análise e conclusão da auditoria.
 
 ---
