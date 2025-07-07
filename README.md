@@ -43,7 +43,7 @@ Neste projeto, apliquei conhecimentos práticos em:
 **Disclaimer:** Este é um projeto realizado dentro de um ambiente acadêmico. A empresa e o cenário são fictícios e foram criados para fins educacionais pelo Google.
 
 
-# Internal Cybersecurity Audit Project (Google Cybersecurity Course)
+# In English(EUA) Internal Cybersecurity Audit Project (Google Cybersecurity Course) 
 
 ## 1. Project Overview
 
